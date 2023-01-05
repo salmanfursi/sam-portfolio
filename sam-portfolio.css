@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    font-family: sans-serif;
+}
+.nav-title{
+    font-size: 45px;
+    font-weight: 200px;;
+}
+.m{
+    color:orangered
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    
+    
+
+}
+nav ul{
+    display:flex;
+    align-items: center;
+    
+
+}
+nav li{
+    list-style:none;
+    margin-left: 25px;
+    
+    
+}
+.btn{
+    color:darkgreen;
+    background-color: rgb(240, 131, 92);
+    font-size: 21px;
+    font-weight: 900;
+    height: 45px;
+    border-radius: 10px;
+    border: 0;
+    width: 120px;
+   
+  
+}
+header{
+    margin: 25px 70px  0px;
+}
